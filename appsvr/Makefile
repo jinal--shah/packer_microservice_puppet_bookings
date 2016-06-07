@@ -27,7 +27,7 @@ export AWS_REGION:=eu-west-1
 
 # ... EUROSTAR_RELEASE_VERSION overriden from THIS repo's checked-out
 #     tag if one exists (e.g when building a release)
-export APP_VERSION:=28
+export APP_VERSION:=19
 export EUROSTAR_SERVICE_NAME:=bookings
 export EUROSTAR_SERVICE_ROLE:=appsvr
 export PUPPET_PRODUCT=booking
