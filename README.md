@@ -1,6 +1,6 @@
-# packer\_microservice\_puppet\_payments
+# packer\_microservice\_puppet\_bookings
 
-... used to build role AMIs for the payments product
+... used to build role AMIs for the bookings product
 
 ## Structure
 
